@@ -16,3 +16,6 @@ Input: sIgA_NLF_Saliva.csv and Saliva_Serum_Nasal.csv
 
 #### Figure 6. SARS-CoV-2 neutralizing antibodies in mucosal samples. 
 Input: Neutralizing_Saliva_Nasal.csv and Saliva_Serum_Nasal.csv 
+
+#### Supplemental Figure 1. Pearson correlation between antigens at day 1 in serum, saliva, and pooled nasal lining fluid [NLF]
+Input: Saliva_Serum_Nasal.csv 
