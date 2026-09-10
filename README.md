@@ -19,3 +19,6 @@ Input: Neutralizing_Saliva_Nasal.csv and Saliva_Serum_Nasal.csv
 
 #### Supplemental Figure 1. Pearson correlation between antigens at day 1 in serum, saliva, and pooled nasal lining fluid [NLF]
 Input: Saliva_Serum_Nasal.csv 
+
+#### Supplemental Figure 1. IgG:IgA Ratio between compartments
+Input: Saliva_Serum_Nasal.csv 
