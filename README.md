@@ -15,5 +15,4 @@ Input: Saliva_Serum_Nasal.csv
 Input: sIgA_NLF_Saliva.csv and Saliva_Serum_Nasal.csv 
 
 #### Figure 6. SARS-CoV-2 neutralizing antibodies in mucosal samples. 
-Input: <br>
-Output: 
+Input: Neutralizing_Saliva_Nasal.csv and Saliva_Serum_Nasal.csv 
